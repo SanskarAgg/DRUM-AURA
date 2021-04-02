@@ -1,0 +1,49 @@
+footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+.a,
+.s,
+.d,
+.f,
+.g,
+.h,
+.j {
+    background-image: url("images/drum.jpg");
+    height: 30%;
+    width: 20%;
+    background-size: cover;
+    color: white;
+    font-size: 6rem;
+    text-shadow: 4px 4px black;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: 0px;
+}
+
+.body1 {
+    color: white;
+    font-family: "Arvo", cursive;
+    font-size: 1.5rem;
+    text-shadow: 1px 0 #DA0463;
+}
+
+footer {
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    font-size: 1.5rem;
+    text-shadow: 1px 0 #DA0463;
+}
